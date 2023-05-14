@@ -7,4 +7,7 @@ A new Flutter project.
 This project is a starting point for zero waste application.
 
 
-![](Screenshotr.png)
+![](ScreenshotL.png)
+![](ScreenshotS.png)
+![](ScreenshotDorR.png)
+![](ScreenshotM.png)
